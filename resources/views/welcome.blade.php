@@ -21,6 +21,6 @@
         </style>
     </head>
     <body>
-        <script src="{{asset(js/App.js)}}"></script>
+        <script src="{{asset(js/app.js)}}"></script>
     </body>
 </html>
